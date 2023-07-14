@@ -1,4 +1,4 @@
-<img src="https://github.com/20110240069/yang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230714213947.png" width="15%" />
+<img src="https://github.com/20110240069/yang/blob/main/20230714215655.png" width="100%" />
 
 008期培训班培训方式包括线下面授课、线上课程和课程考试，培训课程课件获取路径及考试路径如下：
 
